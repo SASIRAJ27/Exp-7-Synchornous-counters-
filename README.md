@@ -119,11 +119,11 @@ DOWN COUNTER:
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER:
 
-![output](UP2.png)
+![output](up2.png)
 
 DOWN COUNTER:
 
-![output](D2.png)
+![output](d2.png)
 
 
 
